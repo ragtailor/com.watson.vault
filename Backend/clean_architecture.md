@@ -1,6 +1,6 @@
-# Project Titanic (James) - API Specification & Context
+# Project - API Specification & Context
 
-이 문서는 프로젝트 **Titanic (James)**의 초기 설정 및 기술 스택을 정의합니다. 커서(Cursor) AI는 이 가이드를 바탕으로 코드를 생성하고 유지보수해야 합니다.
+이 문서는 프로젝트  초기 설정 및 기술 스택을 정의합니다. 커서(Cursor) AI는 이 가이드를 바탕으로 코드를 생성하고 유지보수해야 합니다.
 
 ## 1. 프로젝트 개요
 - **프레임워크**: FastAPI

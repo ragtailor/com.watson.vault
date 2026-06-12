@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Backend/ENTITY_RULE.md",
+                "file": "DevOps/Backend/TITANIC_ERD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENTITY_RULE"
+              "title": "TITANIC_ERD"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "f0472198944932d9",
   "lastOpenFiles": [
+    "DevOps/Backend/ENTITY_RULE.md",
     "DevOps/Backend/ERD.md",
     "DevOps/Backend/TITANIC_ERD.md",
-    "DevOps/Backend/ENTITY_RULE.md",
     "환영합니다!.md",
     "아고라개발/260506_agora_app_naming.md",
     "아고라개발/260506_agora_flutterflow_guide.md",
